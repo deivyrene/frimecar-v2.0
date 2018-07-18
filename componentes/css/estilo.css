@@ -1,0 +1,127 @@
+
+.banner
+{	
+	 max-width: 1030px;
+	 min-height: 130px;
+	 margin-right: auto;
+	 margin-left: auto;
+	 box-shadow: 2px 2px 2px #999;
+	 background-color: #425F9C;
+}
+
+.contenedor_general
+{
+	max-width: 1030px;
+	min-height: 510px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #D4D4D4;
+	box-shadow: 2px 2px 2px #999;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+
+}
+
+.containt_form_session
+{
+	max-width: 350px;
+	min-height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 115px;
+	border-radius: 6px;
+	box-shadow: 2px 2px 2px 2px #999;
+	background-color: #BEE1E5;
+}
+
+.top_form_session
+{
+
+	text-align: center;
+	font-size: 22px;
+	color: #EFEFEF;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	background-color: #5F89D2;
+}
+
+.reduce_input_session
+{
+	max-width: 250px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contenedor_menu
+{
+	max-width: 1030px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.ventana{
+
+	display:none; <!-- -------------------------> es importante ocultar las ventanas previamente -->
+	color:#808080;
+	line-height:28px;
+	font-size:18px;
+	text-align:justify;
+
+}
+
+.imgLogin
+{
+	margin-left: 0px;  
+	max-width:330px;
+	max-height:225px;
+	filter:alpha(opacity=45);
+	-moz-opacity:.45;
+	opacity:.45;
+	background:url(img/escuela.jpg); 
+	background-repeat: no-repeat;
+}
+
+/*
+
+.popup 
+{
+	background-color: #ffffff;
+	color: #888888;
+	height: 245px;
+	left: 100%;
+	padding: 20px;
+	position: fixed;
+	right: 30%;
+	top: 25%;
+	width: 550px;
+	z-index: 101;
+	-moz-box-shadow: 0px 0px 10px 1px #888888;
+	-webkit-box-shadow: 0px 0px 10px 1px #888888;
+	box-shadow: 0px 0px 10px 1px #888888;
+	border-radius:10px;
+	-moz-border-radius:10px;
+}
+
+.overlay 
+{
+	background: #000000;
+	bottom: 0;
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	z-index: 100;
+	opacity:0.5;
+}
+
+a.close 
+{
+	background: url("../js/images/icon-close-1.png") repeat scroll left top transparent;
+	cursor: pointer;
+	float: right;
+	height: 26px;
+	left: 32px;
+	position: relative;
+	top: -33px;
+	width: 26px;
+}*/
