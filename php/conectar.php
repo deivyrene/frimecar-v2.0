@@ -8,10 +8,10 @@ Class Conectar
 {
     public function __construct()
     {
-        @define (SERVIDOR,"frimecar.com.ve");
-        @define (USUARIO,"frimecar_frimeca");
-        @define (CLAVE,"#net52**");
-        @define (BASE_DE_DATOS,"frimecar_frimecar");
+        @define (SERVIDOR,"remotemysql.com");
+        @define (USUARIO,"tE8LjTvUPQ");
+        @define (CLAVE,"3VSajwWUmo");
+        @define (BASE_DE_DATOS,"tE8LjTvUPQ");
     }
     public function conectar()
     {
