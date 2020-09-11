@@ -2,6 +2,7 @@
     session_start();
 
     require('php/conectar.php');
+    print('prueba');
 ?>
 <!DOCTYPE html>
 <html lang="en">
